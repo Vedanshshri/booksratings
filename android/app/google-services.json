@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144218963769",
+    "firebase_url": "https://test-app-project-39e8f.firebaseio.com",
+    "project_id": "test-app-project-39e8f",
+    "storage_bucket": "test-app-project-39e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144218963769:android:1059d6648490217f1bb2e8",
+        "android_client_info": {
+          "package_name": "com.example.booksratings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144218963769-n65eo45b7lojv59ikrld0b07og6adfqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MSSZZEhtJ3Wj9WhwqpSIbZsfWY9xquU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144218963769-n65eo45b7lojv59ikrld0b07og6adfqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
