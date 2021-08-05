@@ -108,14 +108,14 @@ class _EditBookState extends State<EditBook> {
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(25.0),
                     ),
-                    title: const Text('AlertDialog Title'),
+                    title: const Text('Are You Sure??'),
                     content: SingleChildScrollView(
-                      child: ListBody(
-                        children: const <Widget>[
-                          const Text('Are You Sure??'),
-                        ],
-                      ),
-                    ),
+                        // child: ListBody(
+                        //   children: const <Widget>[
+                        //     const Text('Are You Sure??'),
+                        //   ],
+                        // ),
+                        ),
                     actions: <Widget>[
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,

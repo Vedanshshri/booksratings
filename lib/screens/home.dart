@@ -92,7 +92,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(25.0),
           ),
-          title: const Text('AlertDialog Title'),
+          title: const Text('SORT BY'),
           content: SingleChildScrollView(
             child: ListBody(
               children: const <Widget>[
@@ -284,14 +284,14 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                                     shape: RoundedRectangleBorder(
                                       borderRadius: BorderRadius.circular(25.0),
                                     ),
-                                    title: const Text('AlertDialog Title'),
+                                    title: const Text('Are You Sure??'),
                                     content: SingleChildScrollView(
-                                      child: ListBody(
-                                        children: const <Widget>[
-                                          const Text('Are You Sure??'),
-                                        ],
-                                      ),
-                                    ),
+                                        // child: ListBody(
+                                        //   children: const <Widget>[
+                                        //     const Text('Are You Sure??'),
+                                        //   ],
+                                        // ),
+                                        ),
                                     actions: <Widget>[
                                       Row(
                                         mainAxisAlignment:
